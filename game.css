@@ -55,8 +55,8 @@ iframe {
 }
 
 .actual iframe {
-  height: 40vw;
-  min-height: 40vw;
+  height: 28vw;
+  min-height: 28vw;
   margin: 0;
   padding: 0;
 }
@@ -496,7 +496,7 @@ hr {
   .nav {
     width: 100%;
     margin: 0;
-    height: 180px;
+    height: auto;
     margin-top: 15px;
   }
   .tool-bar {
@@ -576,3 +576,18 @@ hr {
 .logo2 img {
   height: 32px;
 }
+
+/* --- Custom fixes (Dec 2025) --- */
+/* Hide the lower info panels on game.html (About/Controls/Information) */
+.more-info{display:none !important;}
+
+/* Fix top menu overflow/wrapping on game.html */
+.nav{
+  width:100%;
+  margin:0;
+  border-radius:0;
+  padding-inline:16px;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.nav-link{white-space:nowrap;}
