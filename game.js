@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (game.id == gameID && game.download) {
           download.addEventListener("click", () => {
             window.open(
-              `https://quiz-50.github.io/zips/game${gameID}.zip`,
+              `https://slope-60x.github.io/zips/game${gameID}.zip`,
               "_blank"
             );
           });
