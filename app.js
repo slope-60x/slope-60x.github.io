@@ -444,3 +444,15 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+
+// --- AdSense / policy footer injection ---
+(function() {
+  try {
+    if (!document.querySelector('.site-footer')) {
+      const wrap = document.createElement('div');
+      wrap.innerHTML = "\n<footer class=\"site-footer\" style=\"margin-top: 40px; padding: 18px 0; border-top: 1px solid rgba(255,255,255,.12); font-size: 14px; opacity: .95;\">\n  <div style=\"display:flex; gap:14px; flex-wrap:wrap; justify-content:center;\">\n    <a href=\"about.html\">About</a>\n    <a href=\"privacy.html\">Privacy Policy</a>\n    <a href=\"terms.html\">Terms</a>\n    <a href=\"contact.html\">Contact</a>\n  </div>\n</footer>\n";
+      document.body.appendChild(wrap.firstElementChild);
+    }
+  } catch (e) {}
+})();
