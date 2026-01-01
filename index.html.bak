@@ -41,15 +41,11 @@
       <a href="/" class="logo2" style="background-color: transparent">
         <img src="/media/logom.png" alt="slope-60x.github.io Logo" />
       </a>
-	  <a href="/" class="nav-link">Home</a>
       <a href="new.html" class="nav-link">New</a>
       <a href="trending.html" class="nav-link">Trending</a>
       <a href="recent.html" class="nav-link">Recent</a>
       <a href="/settings.html" class="nav-link">Settings</a>
-	  <a href="about.html" class="nav-link">About</a> ·
-      <a href="terms.html" class="nav-link">Terms</a> ·
-      <a href="dmca.html" class="nav-link">DMCA</a> ·
-
+	   <a href="/originals/atomic/" class="nav-link" target="_blank">Atomic Clicker</a>
     </nav>
     <div class="wrap" id="wrap">
       <header class="homeheader">
