@@ -117,8 +117,8 @@ document.addEventListener("DOMContentLoaded", () => {
           newArray[i].link + newArray[i].thumb
         })`;
         newGameElement.addEventListener("click", () => {
-          const params = new URLSearchParams({ target: newGameID });
-          window.location.href = `game.html?${params.toString()}`;
+          const picked = newArray.find(g => String(g.id) === String(newGameID));
+          if (picked && picked.slug) { window.location.href = `${picked.slug}.html`; } else { window.location.href = "/"; }
         });
       }
     }

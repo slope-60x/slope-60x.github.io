@@ -10,28 +10,6 @@ document.addEventListener("mousemove", function (event) {
 });
 
 //**Above is the universal code for every MacWeb JavaScript file**//
-// --- Slug pages helpers (site uses slug HTML files) ---
-function slugifyName(name) {
-  return String(name || "")
-    .toLowerCase()
-    .replace(/&/g, " and ")
-    .replace(/\./g, "-")
-    .replace(/[^a-z0-9\s-]/g, " ")
-    .replace(/[\s_-]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "");
-}
-function gameUrlById(id) {
-  try {
-    const g = (window.everythingArray || []).find((x) => String(x.id) === String(id));
-    if (g && (g.slug || g.name)) return `${(g.slug || slugifyName(g.name))}.html`;
-  } catch (e) {}
-  return `game.html?target=${encodeURIComponent(id)}`;
-}
-window.slugifyName = slugifyName;
-window.gameUrlById = gameUrlById;
-// --- end helpers ---
-
 
 const google = ["Google", "/media/google.png"];
 const canva = ["Home - Canva", "/media/canva.png"];
@@ -222,7 +200,7 @@ function arrangeBoxes(newArrayy, newIds) {
           ),
           url("${item.link + item.thumb}")`;
         newBox.addEventListener("click", () => {
-          window.location.href = gameUrlById(item.id);
+          window.location.href = `${item.slug}.html`;
         });
       }
     });
@@ -342,7 +320,8 @@ function select() {
       list.innerHTML = item.outerHTML;
       let id = item.getAttribute("id").slice(4);
       list.children[0].addEventListener("click", () => {
-        window.location.href = gameUrlById(id);
+        const picked = everythingArray.find(g => String(g.id) === String(id));
+        if (picked && picked.slug) { window.location.href = `${picked.slug}.html`; } else { window.location.href = "/"; }
       });
     }
   });

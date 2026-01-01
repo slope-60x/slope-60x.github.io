@@ -18,7 +18,7 @@
 	    
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Play Merge Round Racers unblocked online in your browser—fast loading, no downloads. Merge Round Racers is a pick-up-and-play casual game built for short bre..." />
+    <meta name="description" content="Play Merge Round Racers unblocked online in your browser—fast loading, no downloads. Controls, tips, and a quick overview on Slope 60x." />
     <link rel="canonical" href="https://slope-60x.github.io/merge-round-racers.html" />
     <title>Play Merge Round Racers Unblocked | Slope 60x</title>
 	<link class="favicon" rel="icon" type="image/x-icon" href="/media/drive.ico" />
@@ -87,7 +87,8 @@
     <script>
       let data,
         newArray = [];
-      const targetUrl = "144";
+      const TARGET_ID = 144;
+      const targetUrl = String(TARGET_ID);
       const gameName = document.getElementById("game-name");
       const gameCategory = document.getElementById("game-category");
       const gameRelease = document.getElementById("game-release");
@@ -108,17 +109,7 @@
           newArray.forEach((game) => {
             if (game.id === parseInt(targetUrl)) {
               document.getElementById("game-frame").src = game.link;
-              const titleFromStorage = localStorage.getItem("title");
-              if (titleFromStorage && titleFromStorage.trim() !== "") {
-                const pageTitle = document.getElementsByTagName("title")[0];
-                const [title, image] = titleFromStorage.split(",");
-                if (title && image) {
-                  pageTitle.innerHTML = title;
-                  let favicon = document.querySelector(".favicon");
-                  favicon.href = image;
-                }
-              } else {
-                // keep existing SEO title
+              document.getElementsByTagName("title")[0].innerHTML = "Play Merge Round Racers Unblocked | Slope 60x";
               }
               gameName.innerHTML = game.name;
               gameRelease.innerHTML = game.releaseDate;
