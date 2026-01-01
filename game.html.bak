@@ -15,7 +15,11 @@
 
       gtag("config", "G-EZM74395F2");
     </script>
-	    
+	    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878762486915837"
+      crossorigin="anonymous"
+    ></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
@@ -33,6 +37,9 @@
       <a href="recent.html" class="nav-link">Recent</a>
       <a href="/settings.html" class="nav-link">Settings</a>
 	   <a href="/originals/atomic/" class="nav-link" target="_blank">Atomic Clicker</a>
+			<a href="https://retro-bowl-10x.github.io"  class="nav-link" target="_blank">RETRO BOWL-10x</a>
+			<a href="https://www.symbaloo.com/mix/agariounblockedschool"  class="nav-link" target="_blank">RESERVE LIST</a>
+			<a href="https://quiz-25.pro"  class="nav-link" target="_blank">NEW RESERVE</a>
 
     </nav>
     <div class="game-container">
