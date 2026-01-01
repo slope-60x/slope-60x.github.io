@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Play Tag Unblocked | slope-60x.github.io</title>
+  <meta name="description" content="Play Tag online in your browser. Controls, tips, and a quick guide included. Start instantly—no downloads needed." />
+  <link rel="canonical" href="https://slope-60x.github.io/316.html" />
+  <meta property="og:title" content="Play Tag Unblocked" />
+  <meta property="og:description" content="Play Tag online in your browser. Controls, tips, and a quick guide included. Start instantly—no downloads needed." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://slope-60x.github.io/316.html" />
+  <meta property="og:image" content="logo.jpg" />
+  <link rel="stylesheet" href="game.css" />
+</head>
+<body data-game-id="316">
+<nav class="nav" id="nav">
+
+      <a href="/" class="logo2" style="background-color: transparent">
+        <img src="/media/logom.png" alt="slope-60x.github.io Logo" />
+      </a>
+      <a href="new.html" class="nav-link">New</a>
+      <a href="trending.html" class="nav-link">Trending</a>
+      <a href="recent.html" class="nav-link">Recent</a>
+      <a href="/settings.html" class="nav-link">Settings</a>
+	   <a href="/originals/atomic/" class="nav-link" target="_blank">Atomic Clicker</a>
+
+    </nav>
+<main class="game-container">
+  <div class="game-related">
+    <div class="actual" id="gameframe">
+      <div class="game-cover">
+        <img id="game-thumb" src="logo.jpg" alt="Tag cover" />
+      </div>
+      <div class="game-actions">
+        <button class="btn" id="btn-fullscreen" type="button">Fullscreen</button>
+        <button class="btn" id="btn-newtab" type="button">Open in New Tab</button>
+        <button class="btn" id="btn-copylink" type="button">Copy Link</button>
+      </div>
+      <iframe class="game-iframe" id="game-frame" src="https://quiz-50.github.io/action-games/tag/" loading="lazy" referrerpolicy="no-referrer" allowfullscreen></iframe>
+    </div>
+
+    <aside class="game-sidebar">
+      <div class="info">
+        <h3>Controls</h3>
+        <ul id="game-controls">
+          <li>Still working on this one O_O</li>
+        </ul>
+      </div>
+      <div class="info">
+        <h3>Game Information</h3>
+        <ul>
+          <li>Developer: <span id="game-developer">JetGames</span></li>
+          <li>Category: <span id="game-category">action</span></li>
+          <li>Genre: <a id="game-genre" href="tag.html?tag=action">action</a></li>
+          <li>Players: <span id="game-popularity">10M+</span></li>
+          <li>Release Date: <span id="game-release"></span></li>
+          <li>Build: <span id="game-build">HTML5, JavaScript</span></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+
+  <section class="game-article" id="game-article">
+    <h2>About Tag</h2>
+    <p>If you’re looking for a smooth, no‑install game you can jump into instantly, Tag is a great choice.</p>
+<p>Category-wise it fits nicely into action, but it also mixes in variety so the gameplay doesn’t feel repetitive.</p>
+<p>Start slowly: master movement and camera/aim (if used), then add advanced actions once you feel consistent.</p>
+<p><strong>Controls:</strong> Still working on this one O_O.</p>
+<p><strong>Tips to play better:</strong> When things get hectic, simplify: prioritize survival, then optimize for points/wins. Use the edges and corners wisely—many games give you safer angles there.</p>
+<p>Tag is the kind of game that rewards practice. Even small improvements—cleaner movement, better timing—stack up quickly.</p>
+<p>Made by JetGames, the game keeps things lightweight so it loads quickly and feels responsive.</p>
+<p>It’s ideal for short play sessions: you can jump in, have fun, and hop out whenever you’re done.</p>
+<p>Ready to play? Hit the start button, give yourself a few rounds to warm up, and enjoy Tag.</p>
+<p><strong>FAQ:</strong> *Is Tag hard?* It starts simple, then gets more challenging as you improve. *Do I need to download anything?* No—it&#x27;s playable directly in your browser. *Can I play on a school Chromebook?* If the site is accessible on your network, it should run in modern browsers.</p>
+  </section>
+</main>
+
+<div class="game-share none" id="game-share">
+  Link copied!
+  <button class="game-share-btn" id="game-share-btn" type="button">Done</button>
+</div>
+
+<script>
+(function() {
+  const iframe = document.getElementById('game-frame');
+  const btnFs = document.getElementById('btn-fullscreen');
+  const btnNew = document.getElementById('btn-newtab');
+  const btnCopy = document.getElementById('btn-copylink');
+  const share = document.getElementById('game-share');
+  const shareBtn = document.getElementById('game-share-btn');
+
+  btnFs.addEventListener('click', () => {
+    if (!document.fullscreenElement) {
+      iframe.requestFullscreen?.();
+    } else {
+      document.exitFullscreen?.();
+    }
+  });
+
+  btnNew.addEventListener('click', () => {
+    window.open(iframe.src, '_blank', 'noopener,noreferrer');
+  });
+
+  btnCopy.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      share.classList.remove('none');
+    } catch(e) {
+      const t=document.createElement('textarea');
+      t.value=window.location.href;
+      document.body.appendChild(t);
+      t.select();
+      document.execCommand('copy');
+      t.remove();
+      share.classList.remove('none');
+    }
+  });
+
+  shareBtn.addEventListener('click', () => {
+    share.classList.add('none');
+  });
+})();
+</script>
+</body>
+</html>
