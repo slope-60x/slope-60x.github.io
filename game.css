@@ -242,31 +242,8 @@ iframe {
   display: none;
 }
 
-.nav{
-  background-color: var(--black-color);
-  border-radius: 10px;
-  width: 95%;
-  margin-inline: 2.5%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 14px;
-  padding: 10px 14px;
-  flex-direction: row;
-  color: white;
-  position: sticky;
-  top: 0;
-  z-index: 999;
-}
-
-@media (max-width: 720px){
-  .nav{
-    flex-direction: column;
-    padding-block: 16px;
-  }
-}
-
-.side-search, .ad-container{
+.nav,
+.side-search, .ad-container {
   background-color: var(--black-color);
   border-radius: 10px;
   width: 95%;
@@ -279,6 +256,7 @@ iframe {
   color: white;
   padding-block: 20px;
 }
+
 .ad-container ins {
   width: 80%;
 }

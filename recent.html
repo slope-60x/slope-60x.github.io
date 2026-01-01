@@ -1,115 +1,161 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Recently Updated Games | Slope 60x</title>
-  <meta name="description" content="Recently updated unblocked games on Slope 60x. Updated builds and refreshed content.">
-  <link rel="canonical" href="https://slope-60x.github.io/recent.html">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="game.css">
-</head>
-<body data-page="recent">
-<nav class="nav">
-<a class="brand" href="index.html">SLOPE 60X</a>
-<div class="nav-links">
-<a href="index.html" class="nav-link">Home</a>
-<a href="trending.html" class="nav-link">Trending</a>
-<a href="new.html" class="nav-link">New</a>
-<a href="recent.html" class="nav-link active">Recent</a>
-<a href="settings.html" class="nav-link">Settings</a>
-</div></nav>
-<main class="container">
+<!DOCTYPE html>
+<html>
+  <head>
 
-<section class="hero">
-  <h1>Recently Updated </h1>
-  <p>Games with the most recent updates.</p>
-  <div class="search-row">
-    <input id="search" class="search" type="search" placeholder="Search games...">
-    <div class="count"><span id="count">0</span> games</div>
-  </div>
-</section>
-<section id="grid" class="grid"></section>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-EZM74395F2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-<script>
-async function loadGames(){
-  const res = await fetch("games.json", {cache: "no-store"});
-  const data = await res.json();
-  return data.games || [];
-}
-function normalize(s){ return (s||"").toString().toLowerCase(); }
-
-function cardHTML(g){
-  const href = `${(g.slug || g.id)}.html`;
-  const img = g.thumb || "";
-  const cat = g.catagory || g.category || "";
-  const name = g.name || "Game";
-  return `
-    <a class="game-card" href="${href}">
-      <div class="thumb"><img loading="lazy" src="${img}" alt="${name} thumbnail"></div>
-      <div class="meta">
-        <div class="name">${name}</div>
-        <div class="cat">${cat}</div>
+      gtag("config", "G-EZM74395F2");
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title class="cloak">Recent | slope-60x.github.io</title>
+   <link class="favicon" rel="icon" type="image/x-icon" href="/media/drive.ico" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="games.css" />
+	    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3519027922537529"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <nav class="nav" id="nav">
+           <div class="overflowm shoot" id="overflowm">
+        <img src="media/bars-solid.svg" alt="Menu" class="shoot" />
       </div>
-    </a>`;
-}
+      <a href="/" class="logo2" style="background-color: transparent">
+        <img src="/media/logom.png" alt="slope-60x.github.io Logo" />
+      </a>
+      <a href="new.html" class="nav-link">New</a>
+      <a href="trending.html" class="nav-link">Trending</a>
+      <a href="recent.html" class="nav-link">Recent</a>
+      <a href="/settings.html" class="nav-link">Settings</a>
+	   <a href="/originals/atomic/" class="nav-link" target="_blank">Atomic Clicker</a>
+      <div class="right">
+        <div class="select help-menu">
+          <span class="help-label help-menu">RESERVE</span>
+          <img src="media/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="cats help-menu">
+            <a href="https://class-80x.github.io" target="_blank">RESERVE</a>
+           
+          </ul>
+        </div>
 
-function render(list){
-  const grid = document.getElementById("grid");
-  grid.innerHTML = list.map(cardHTML).join("");
-  document.getElementById("count").textContent = list.length.toString();
-}
+       
+      </div>
+    </nav>
 
-function sortByPopularity(a,b){ return (b.popularity||0) - (a.popularity||0); }
-function sortByRelease(a,b){
-  const ad = new Date(a.releaseDate || 0).getTime();
-  const bd = new Date(b.releaseDate || 0).getTime();
-  return bd - ad;
-}
-function sortByUpdated(a,b){
-  const ad = new Date(a.updateDate || a.updated || 0).getTime();
-  const bd = new Date(b.updateDate || b.updated || 0).getTime();
-  return bd - ad;
-}
+    <div class="wrap" id="wrap">
+      <header class="homeheader">
+        <div class="title" name="Recent Games">Recent Games</div>
+        <div class="sub" style="text-align: left">
+          With the Recent tab, you can quickly access the games you've recently
+          played, making it easy to jump right back and continue playing them
+          without browsing through every game to find them!
+          <p
+            style="
+              text-decoration: underline;
+              cursor: pointer;
+              display: inline-block;
+            "
+            onclick="clearRecents()"
+          >
+            Clear Recents
+          </p>
+        </div>
+      </header>
+      <div
+        id="recentList"
+        class="games-container"
+        style="color: white; font-size: 20px; margin-block: 30px"
+      >
+        You haven't played any games yet! Browse our games on the homepage or
+        from the tabs above.
+      </div>
+      
+      <div class="ad-container">
 
-(async ()=>{
-  const all = await loadGames();
-  const q = new URLSearchParams(location.search);
-  const cat = q.get("c");
-  let list = all.slice();
-  if(cat){
-    const c = normalize(cat);
-    list = list.filter(g => normalize(g.catagory || g.category) === c);
-    const chip = document.getElementById("chip");
-    if(chip){ chip.textContent = cat; chip.style.display="inline-flex"; }
-  }
+      </div>
+    </div>
+    <footer class="footer">
+      © 2024 <a href="/">slope-60x.github.io</a
+      ><span style="color: black; user-select: none; background-color: black"
+        >slope-60x.github.io</span
+      >
+      All rights reserved<br />
+      Have fun playing these unblocked fun games!🎮🎮🎮<br
+        style="margin-bottom: 10px"
+      />
+     
+    </footer>
+    <script src="app.js"></script>
+    <script>
+        const recentList = document.getElementById("recentList");
+        const gamess = document.getElementById("list");
 
-  // page type
-  const pageType = document.body.dataset.page;
-  if(pageType === "trending"){ list.sort(sortByPopularity); }
-  if(pageType === "new"){ list.sort(sortByRelease); }
-  if(pageType === "recent"){ list.sort(sortByUpdated); }
+        function clearRecents() {
+          if (
+            confirm("Are you sure you want to clear your recent play history?")
+          ) {
+            localStorage.removeItem("macvgRecents");
+            recentList.innerHTML = "You haven't played any games yet! Browse our games on the homepage or from the tabs above.";
+          }
+        }
 
-  // initial render
-  render(list);
+        let newArray = [];
+        let everythingArray = [];
+        let data;
+        fetch("games.json")
+          .then((response) => response.json())
+          .then((dataa) => {
+            data = dataa.games;
+            for (var i = 0; i < data.length; i++) {
+              newArray.push(data[i]);
+            }
+            everythingArray = newArray;
 
-  // search
-  const input = document.getElementById("search");
-  if(input){
-    input.addEventListener("input", ()=>{
-      const term = normalize(input.value).trim();
-      const filtered = term ? list.filter(g => normalize(g.name).includes(term)) : list;
-      render(filtered);
-    });
-  }
-})();
-</script>
+            let recents = localStorage.macvgRecents;
+            let list = recents.split(",");
+            let selectedGames = [];
+            console.log(list);
+            if (list) {recentList.innerHTML = ""}
 
+            list.forEach((one) => {
+              everythingArray.forEach((game) => {
+                let item = game.id;
+                if (item == one) {
+                  console.log(game.name);
+                  const newGame = document.createElement("a");
+                  newGame.classList.add("game");
+                  newGame.setAttribute("id", `game${game.id}`);
+                  newGame.setAttribute("name", game.name);
+                  newGame.innerHTML = game.name;
+                  newGame.style.backgroundImage = `linear-gradient(
+        rgba(40, 40, 40, 0.2),
+        rgba(20, 20, 20, 0.9)
+      ),
+      url("${game.link + game.thumb}")`;
+                  newGame.addEventListener("click", () => {
+                    const params = new URLSearchParams({ target: game.id });
+                    window.location.href = gameUrlById(gamee.id.slice(4));
+                  });
 
-</main>
-<footer class="footer">
-  <div class="footer-links"><a href="privacy-policy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="contact.html">Contact</a></div>
-  <div class="footer-note">© 2026 Slope 60x. All rights reserved.</div>
-</footer>
-</body>
+                  recentList.appendChild(newGame);
+                }
+              });
+            });
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+    </script>
+  </body>
 </html>
