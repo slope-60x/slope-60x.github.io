@@ -1,9 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
-  
-// Support slug pages without URL params
-const __fixedTarget = (typeof window !== "undefined" && window.FIXED_TARGET) ? String(window.FIXED_TARGET) : null;
-const gameID = params.get("target");
+  const gameID = params.get("target");
   let newArray = [];
   const download = document.getElementById("download");
   fetch("games.json")
@@ -121,7 +118,7 @@ const gameID = params.get("target");
         })`;
         newGameElement.addEventListener("click", () => {
           const params = new URLSearchParams({ target: newGameID });
-          window.location.href = `game.html?${params.toString()}`;
+          window.location.href = `${newArray.find(g=>g.id===parseInt(newGameID))?.slug || newGameID}.html`;
         });
       }
     }

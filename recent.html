@@ -147,7 +147,7 @@
       url("${game.link + game.thumb}")`;
                   newGame.addEventListener("click", () => {
                     const params = new URLSearchParams({ target: game.id });
-                    window.location.href = `game.html?${params.toString()}`;
+                    window.location.href = `${game.slug}.html`;
                   });
 
                   recentList.appendChild(newGame);

@@ -226,7 +226,7 @@
       url("${dataItem.link + dataItem.thumb}")`;
                 item.addEventListener("click", () => {
                   const params = new URLSearchParams({ target: dataItem.id });
-                  window.location.href = `game.html?${params.toString()}`;
+                  window.location.href = `${dataItem.slug}.html`;
                 });
               }
             });
@@ -243,7 +243,7 @@
             newArray.forEach((game) => {
               if (list.includes(game.id.toString())) {
                 const clonedItem = document.createElement("a");
-                clonedItem.href = `game.html?target=${game.id}`;
+                clonedItem.href = `${game.slug}.html`;
                 clonedItem.innerHTML = game.name;
                 clonedItem.id = `game${game.id}`;
                 clonedItem.classList.add("game");

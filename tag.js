@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", () => {
           })`;
           newGameElement.addEventListener("click", () => {
             const params = new URLSearchParams({ target: newGameID });
-            window.location.href = `game.html?${params.toString()}`;
+            window.location.href = `${newArray.find(g=>g.id===parseInt(newGameID))?.slug || newGameID}.html`;
           });
         }
       });

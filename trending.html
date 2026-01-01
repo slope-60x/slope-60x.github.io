@@ -230,7 +230,7 @@
               const params = new URLSearchParams({
                 target: gamee.id.slice(4),
               });
-              window.location.href = `game.html?${params.toString()}`;
+              window.location.href = `${newArray.find(g=>g.id===parseInt(gamee.id.slice(4)))?.slug || gamee.id.slice(4)}.html`;
             });
           });
         })

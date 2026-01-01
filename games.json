@@ -23,7 +23,8 @@
         "Esc: Pause"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "1v1-lol"
     },
     {
       "id": 4,
@@ -43,7 +44,8 @@
         "R: Reload",
         "Esc: Pause"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "10-minutes-till-dawn"
     },
     {
       "id": 332,
@@ -60,7 +62,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "adam-and-eve-5-part-1"
     },
     {
       "id": 333,
@@ -77,7 +80,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "adam-and-eve-5-part-2"
     },
     {
       "id": 10,
@@ -95,7 +99,8 @@
         "Click: Action"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "a-dark-room"
     },
     {
       "id": 14,
@@ -112,7 +117,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "alienhominid.jpg"
+      "thumb": "alienhominid.jpg",
+      "slug": "alien-hominid"
     },
     {
       "id": 15,
@@ -129,7 +135,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "amidst-the-clouds"
     },
     {
       "id": 17,
@@ -146,7 +153,8 @@
       "controls": [
         "Mouse: Swim"
       ],
-      "thumb": "assets/favicon/icon-512x512.png"
+      "thumb": "assets/favicon/icon-512x512.png",
+      "slug": "angry-sharks"
     },
     {
       "id": 334,
@@ -164,7 +172,8 @@
         "Drag: Aim",
         "Release: shoot"
       ],
-      "thumb": "Untitled.jpg"
+      "thumb": "Untitled.jpg",
+      "slug": "apple-shooter"
     },
     {
       "id": 338,
@@ -182,7 +191,8 @@
         "Arrow / WASD Keys: Move",
         "Drag: Move"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "arcane-archer"
     },
     {
       "id": 19,
@@ -199,7 +209,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "avalanche.png"
+      "thumb": "avalanche.png",
+      "slug": "avalanche"
     },
     {
       "id": 337,
@@ -219,7 +230,8 @@
         "Mouse: Aim",
         "Number Keys: Switch Weapons"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "awesome-tanks-2"
     },
     {
       "id": 20,
@@ -237,7 +249,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/splash.jpg"
+      "thumb": "img/splash.jpg",
+      "slug": "backrooms"
     },
     {
       "id": 292,
@@ -254,7 +267,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "Backrooms2D.png"
+      "thumb": "Backrooms2D.png",
+      "slug": "backrooms-2d"
     },
     {
       "id": 293,
@@ -271,7 +285,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "BaconMayDie.png"
+      "thumb": "BaconMayDie.png",
+      "slug": "bacon-may-die"
     },
     {
       "id": 32,
@@ -288,7 +303,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "blackknight.png"
+      "thumb": "blackknight.png",
+      "slug": "black-knight"
     },
     {
       "id": 348,
@@ -308,7 +324,8 @@
         "M: Jump (Player 2)",
         "R: Restart"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "blumgi-slime"
     },
     {
       "id": 36,
@@ -325,7 +342,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpeg"
+      "thumb": "splash.jpeg",
+      "slug": "bob-the-robber-2"
     },
     {
       "id": 367,
@@ -345,7 +363,8 @@
         "WASD Keys: Move (Player 2)",
         "Enter: Drop Bomb (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "bomb-it-7"
     },
     {
       "id": 37,
@@ -362,7 +381,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "boxhead2play.jpg"
+      "thumb": "boxhead2play.jpg",
+      "slug": "box-head"
     },
     {
       "id": 347,
@@ -379,7 +399,8 @@
       "controls": [
         "Space Bar / Up Arrow / Click: Jump"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "boxel-rebound"
     },
     {
       "id": 46,
@@ -397,7 +418,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "champion-island"
     },
     {
       "id": 47,
@@ -414,7 +436,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "championarcher.png"
+      "thumb": "championarcher.png",
+      "slug": "champion-archer"
     },
     {
       "id": 55,
@@ -431,7 +454,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images/craftmine.png"
+      "thumb": "images/craftmine.png",
+      "slug": "craftmine"
     },
     {
       "id": 56,
@@ -449,7 +473,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "creativekillchamber.jpg"
+      "thumb": "creativekillchamber.jpg",
+      "slug": "creative-kill-chamber"
     },
     {
       "id": 62,
@@ -467,7 +492,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/unnamed.png",
-      "download": true
+      "download": true,
+      "slug": "cubefield"
     },
     {
       "id": 64,
@@ -486,7 +512,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "dante"
     },
     {
       "id": 355,
@@ -505,7 +532,8 @@
         "R / Space: Reload",
         "Click: Shoot"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "dead-again"
     },
     {
       "id": 66,
@@ -522,7 +550,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/death.png"
+      "thumb": "img/death.png",
+      "slug": "death-run-3d"
     },
     {
       "id": 67,
@@ -539,7 +568,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images/splash.jpg"
+      "thumb": "images/splash.jpg",
+      "slug": "defend-the-tank"
     },
     {
       "id": 296,
@@ -557,7 +587,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Dodge.png",
-      "download": true
+      "download": true,
+      "slug": "dodge"
     },
     {
       "id": 368,
@@ -575,7 +606,8 @@
         "Left Arrow / Click Left: Go Left",
         "Right Arrow / Click Right: Go Right"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "down-the-hill"
     },
     {
       "id": 73,
@@ -592,7 +624,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icon.jpg"
+      "thumb": "icon.jpg",
+      "slug": "dragon-vs-bricks"
     },
     {
       "id": 84,
@@ -609,7 +642,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "endlesswar3.png"
+      "thumb": "endlesswar3.png",
+      "slug": "endless-war-3"
     },
     {
       "id": 86,
@@ -627,7 +661,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "evil.png",
-      "download": true
+      "download": true,
+      "slug": "evil-glitch"
     },
     {
       "id": 90,
@@ -644,7 +679,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "fancypantsadventure.png"
+      "thumb": "fancypantsadventure.png",
+      "slug": "fancy-pants-adventures"
     },
     {
       "id": 92,
@@ -662,7 +698,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpeg"
+      "thumb": "logo.jpeg",
+      "slug": "fireboy-and-watergirl"
     },
     {
       "id": 373,
@@ -679,7 +716,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "five-nights-at-freddy-s"
     },
     {
       "id": 97,
@@ -696,7 +734,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "five-nights-at-winston-s"
     },
     {
       "id": 99,
@@ -713,7 +752,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "froggy-s-battle"
     },
     {
       "id": 101,
@@ -730,7 +770,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "frying-nemo"
     },
     {
       "id": 290,
@@ -748,7 +789,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "funny-shooter-2"
     },
     {
       "id": 103,
@@ -765,7 +807,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "generic-fishing-game"
     },
     {
       "id": 377,
@@ -782,7 +825,8 @@
       "controls": [
         "Click: Jump"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "geometry-dash-classic"
     },
     {
       "id": 104,
@@ -800,7 +844,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "geoscratchicon.png",
-      "download": true
+      "download": true,
+      "slug": "geometry-dash-scratch"
     },
     {
       "id": 106,
@@ -818,7 +863,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/images.jpg"
+      "thumb": "img/images.jpg",
+      "slug": "getaway-shootout"
     },
     {
       "id": 107,
@@ -835,7 +881,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/logo.png"
+      "thumb": "img/logo.png",
+      "slug": "gimme-the-airpod"
     },
     {
       "id": 379,
@@ -856,7 +903,8 @@
         "P: Pause",
         "Note: WASD keys also work"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "gobdun"
     },
     {
       "id": 110,
@@ -873,7 +921,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "goodnight.jpg"
+      "thumb": "goodnight.jpg",
+      "slug": "goodnight"
     },
     {
       "id": 381,
@@ -890,7 +939,8 @@
       "controls": [
         "Click: Change Direction"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "groovy-ski"
     },
     {
       "id": 382,
@@ -908,7 +958,8 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "g-switch"
     },
     {
       "id": 383,
@@ -926,7 +977,8 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "g-switch-2"
     },
     {
       "id": 384,
@@ -944,7 +996,8 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "g-switch-3"
     },
     {
       "id": 120,
@@ -961,7 +1014,8 @@
       "controls": [
         "Click: Fly Up"
       ],
-      "thumb": "helicopter.png"
+      "thumb": "helicopter.png",
+      "slug": "helicopter"
     },
     {
       "id": 390,
@@ -979,7 +1033,8 @@
         "Drag: Move",
         "Drop: Hide"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "hide-and-smash"
     },
     {
       "id": 124,
@@ -996,7 +1051,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "hungry-lamu"
     },
     {
       "id": 336,
@@ -1017,7 +1073,8 @@
         "Space: Turbo / Shoot",
         "Note: WASD keys and dragging also work"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "inifnite-soccer"
     },
     {
       "id": 304,
@@ -1034,7 +1091,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "IronSnout.png"
+      "thumb": "IronSnout.png",
+      "slug": "iron-snout"
     },
     {
       "id": 129,
@@ -1051,7 +1109,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "jetpack-joyride"
     },
     {
       "id": 130,
@@ -1068,7 +1127,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "unnamed.png"
+      "thumb": "unnamed.png",
+      "slug": "justfall-lol"
     },
     {
       "id": 132,
@@ -1085,7 +1145,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "kitchen-gun-game"
     },
     {
       "id": 134,
@@ -1102,7 +1163,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "512x512.jpg"
+      "thumb": "512x512.jpg",
+      "slug": "knife-master"
     },
     {
       "id": 140,
@@ -1120,7 +1182,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Theme/Mario.gif",
-      "download": true
+      "download": true,
+      "slug": "mario"
     },
     {
       "id": 305,
@@ -1137,7 +1200,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "NewSuperMarioBros.png"
+      "thumb": "NewSuperMarioBros.png",
+      "slug": "mario-bros"
     },
     {
       "id": 142,
@@ -1154,7 +1218,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "matrixrampage.jpg"
+      "thumb": "matrixrampage.jpg",
+      "slug": "matrix-rampage"
     },
     {
       "id": 145,
@@ -1171,7 +1236,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "mine-blocks"
     },
     {
       "id": 146,
@@ -1188,7 +1254,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpeg"
+      "thumb": "splash.jpeg",
+      "slug": "minecraft-1-5"
     },
     {
       "id": 147,
@@ -1206,7 +1273,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "minecraft-1-8"
     },
     {
       "id": 148,
@@ -1223,7 +1291,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "pack.png"
+      "thumb": "pack.png",
+      "slug": "minecraft-classic"
     },
     {
       "id": 149,
@@ -1240,7 +1309,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bg_main.png"
+      "thumb": "bg_main.png",
+      "slug": "minecraft-classic-hacks"
     },
     {
       "id": 152,
@@ -1258,7 +1328,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "miss.png",
-      "download": true
+      "download": true,
+      "slug": "missiles"
     },
     {
       "id": 153,
@@ -1276,7 +1347,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "moto-x3m"
     },
     {
       "id": 154,
@@ -1293,7 +1365,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "moto-x3m-2"
     },
     {
       "id": 155,
@@ -1310,7 +1383,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "moto-x3m-pool"
     },
     {
       "id": 156,
@@ -1327,7 +1401,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpeg"
+      "thumb": "splash.jpeg",
+      "slug": "moto-x3m-spooky"
     },
     {
       "id": 157,
@@ -1344,7 +1419,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "download.jpeg"
+      "thumb": "download.jpeg",
+      "slug": "moto-x3m-winter"
     },
     {
       "id": 159,
@@ -1362,7 +1438,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bot.png",
-      "download": true
+      "download": true,
+      "slug": "n-gon"
     },
     {
       "id": 161,
@@ -1380,7 +1457,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "ninja-vs-evil-corp"
     },
     {
       "id": 163,
@@ -1398,7 +1476,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "favicon.png",
-      "download": true
+      "download": true,
+      "slug": "ns-shaft"
     },
     {
       "id": 164,
@@ -1415,7 +1494,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "assets/icon.jpeg"
+      "thumb": "assets/icon.jpeg",
+      "slug": "offline-paradise"
     },
     {
       "id": 165,
@@ -1432,7 +1512,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "assets/icon.jpeg"
+      "thumb": "assets/icon.jpeg",
+      "slug": "om-nom-bounce"
     },
     {
       "id": 308,
@@ -1449,7 +1530,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "PaperMinecraft.png"
+      "thumb": "PaperMinecraft.png",
+      "slug": "paper-minecraft"
     },
     {
       "id": 309,
@@ -1467,7 +1549,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "PCraft.png",
-      "download": true
+      "download": true,
+      "slug": "p-craft"
     },
     {
       "id": 171,
@@ -1484,7 +1567,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "papery-planes"
     },
     {
       "id": 173,
@@ -1501,7 +1585,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "512x512.png"
+      "thumb": "512x512.png",
+      "slug": "pixel-gun-survival"
     },
     {
       "id": 174,
@@ -1518,7 +1603,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/pic1.png"
+      "thumb": "img/pic1.png",
+      "slug": "polybranch"
     },
     {
       "id": 178,
@@ -1535,7 +1621,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "protektor"
     },
     {
       "id": 192,
@@ -1553,7 +1640,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon.png",
-      "download": true
+      "download": true,
+      "slug": "rolling-forests"
     },
     {
       "id": 193,
@@ -1570,7 +1658,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icon-256.png"
+      "thumb": "icon-256.png",
+      "slug": "rolly-vortex"
     },
     {
       "id": 194,
@@ -1587,7 +1676,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/thumb.png"
+      "thumb": "img/thumb.png",
+      "slug": "rooftop-snipers"
     },
     {
       "id": 201,
@@ -1605,7 +1695,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "shuttledeck"
     },
     {
       "id": 370,
@@ -1632,7 +1723,8 @@
         "Scroll: Switch Weapons",
         "Tab: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "skibidi-strike"
     },
     {
       "id": 205,
@@ -1652,7 +1744,8 @@
         "Right Arrow: Go right",
         "Note: WASD keys also work"
       ],
-      "thumb": "slope4.jpeg"
+      "thumb": "slope4.jpeg",
+      "slug": "slope"
     },
     {
       "id": 206,
@@ -1669,7 +1762,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "slope-2-logo.png"
+      "thumb": "slope-2-logo.png",
+      "slug": "slope-2"
     },
     {
       "id": 207,
@@ -1686,7 +1780,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "slope-ball"
     },
     {
       "id": 208,
@@ -1703,7 +1798,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "super-mario-64"
     },
     {
       "id": 210,
@@ -1720,7 +1816,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "smokingbarrels.jpg"
+      "thumb": "smokingbarrels.jpg",
+      "slug": "smoking-barrels"
     },
     {
       "id": 322,
@@ -1737,7 +1834,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "snow-rider-3d"
     },
     {
       "id": 214,
@@ -1754,7 +1852,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images/splash.jpeg"
+      "thumb": "images/splash.jpeg",
+      "slug": "soldier-legend"
     },
     {
       "id": 219,
@@ -1772,7 +1871,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "spl.png",
-      "download": true
+      "download": true,
+      "slug": "space-garden"
     },
     {
       "id": 220,
@@ -1790,7 +1890,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "stack.png",
-      "download": true
+      "download": true,
+      "slug": "stack"
     },
     {
       "id": 221,
@@ -1807,7 +1908,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumbnail.jpg"
+      "thumb": "thumbnail.jpg",
+      "slug": "stack-bump-3d"
     },
     {
       "id": 223,
@@ -1824,7 +1926,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "75wxYs.png"
+      "thumb": "75wxYs.png",
+      "slug": "station-141"
     },
     {
       "id": 225,
@@ -1841,7 +1944,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "stick-archers"
     },
     {
       "id": 226,
@@ -1858,7 +1962,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "512x512.jpg"
+      "thumb": "512x512.jpg",
+      "slug": "stick-duel-battle"
     },
     {
       "id": 227,
@@ -1875,7 +1980,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "stick-merge"
     },
     {
       "id": 228,
@@ -1892,7 +1998,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "base/img1.jpg"
+      "thumb": "base/img1.jpg",
+      "slug": "stickman-boost"
     },
     {
       "id": 234,
@@ -1914,7 +2021,8 @@
         "Space: Activate Hoverboard",
         "Esc: Pause"
       ],
-      "thumb": "img/splash.jpg"
+      "thumb": "img/splash.jpg",
+      "slug": "subway-surfers"
     },
     {
       "id": 235,
@@ -1936,7 +2044,8 @@
         "Space: Activate Hoverboard",
         "Esc: Pause"
       ],
-      "thumb": "NewYorkIcon.png"
+      "thumb": "NewYorkIcon.png",
+      "slug": "subway-surfers-new-york"
     },
     {
       "id": 236,
@@ -1954,7 +2063,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "hot.jpg"
+      "thumb": "hot.jpg",
+      "slug": "superhot"
     },
     {
       "id": 237,
@@ -1971,7 +2081,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "media/icons/icon-128.png"
+      "thumb": "media/icons/icon-128.png",
+      "slug": "super-mario-construct"
     },
     {
       "id": 241,
@@ -1988,7 +2099,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "index.splash.png"
+      "thumb": "index.splash.png",
+      "slug": "synesthesia"
     },
     {
       "id": 242,
@@ -2005,7 +2117,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "tactical-weapon-pack-2"
     },
     {
       "id": 243,
@@ -2022,7 +2135,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "tacticalassassin2.png"
+      "thumb": "tacticalassassin2.png",
+      "slug": "tactical-assassin-2"
     },
     {
       "id": 316,
@@ -2040,7 +2154,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "tag"
     },
     {
       "id": 244,
@@ -2057,7 +2172,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "tank.jpeg"
+      "thumb": "tank.jpeg",
+      "slug": "tank-trouble-2"
     },
     {
       "id": 245,
@@ -2074,7 +2190,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/cover.png"
+      "thumb": "img/cover.png",
+      "slug": "tanuki-sunset"
     },
     {
       "id": 246,
@@ -2091,7 +2208,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/og-icon.png"
+      "thumb": "img/og-icon.png",
+      "slug": "temple-run-2"
     },
     {
       "id": 312,
@@ -2108,7 +2226,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "Terraira.png"
+      "thumb": "Terraira.png",
+      "slug": "terraira"
     },
     {
       "id": 252,
@@ -2125,7 +2244,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thisistheonlylevel.png"
+      "thumb": "thisistheonlylevel.png",
+      "slug": "this-is-the-only-level"
     },
     {
       "id": 253,
@@ -2142,7 +2262,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "tiny-fishing"
     },
     {
       "id": 314,
@@ -2160,7 +2281,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Trimps.png",
-      "download": true
+      "download": true,
+      "slug": "trimps"
     },
     {
       "id": 257,
@@ -2177,7 +2299,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/shark.jpg"
+      "thumb": "img/shark.jpg",
+      "slug": "tube-jumpers"
     },
     {
       "id": 258,
@@ -2194,7 +2317,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/tunnel.jpg"
+      "thumb": "img/tunnel.jpg",
+      "slug": "tunnel-rush"
     },
     {
       "id": 262,
@@ -2214,7 +2338,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "vex3.png"
+      "thumb": "vex3.png",
+      "slug": "vex-3"
     },
     {
       "id": 263,
@@ -2234,7 +2359,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "vex4.png"
+      "thumb": "vex4.png",
+      "slug": "vex-4"
     },
     {
       "id": 264,
@@ -2254,7 +2380,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "vex.jpeg"
+      "thumb": "vex.jpeg",
+      "slug": "vex-5"
     },
     {
       "id": 265,
@@ -2274,7 +2401,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "assets/icon.jpeg"
+      "thumb": "assets/icon.jpeg",
+      "slug": "vex-6"
     },
     {
       "id": 266,
@@ -2295,7 +2423,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "assets/icon.jpeg"
+      "thumb": "assets/icon.jpeg",
+      "slug": "vex-7"
     },
     {
       "id": 326,
@@ -2315,7 +2444,8 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "assets/icon.png"
+      "thumb": "assets/icon.png",
+      "slug": "vex-8"
     },
     {
       "id": 273,
@@ -2333,7 +2463,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "art/wolf3d.png",
-      "download": true
+      "download": true,
+      "slug": "wolfenstein-3d"
     },
     {
       "id": 275,
@@ -2352,7 +2483,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/splash.jpg",
-      "download": true
+      "download": true,
+      "slug": "world-s-hardest-game"
     },
     {
       "id": 276,
@@ -2370,7 +2502,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "the-worlds-hardest-game-2.jpg",
-      "download": true
+      "download": true,
+      "slug": "world-s-hardest-game-2"
     },
     {
       "id": 13,
@@ -2387,7 +2520,8 @@
       "controls": [
         "Click: Spawn Nations"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "ages-of-conflict"
     },
     {
       "id": 24,
@@ -2404,7 +2538,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "baldi-s-basics"
     },
     {
       "id": 29,
@@ -2421,7 +2556,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bigredbutton.png"
+      "thumb": "bigredbutton.png",
+      "slug": "big-red-button"
     },
     {
       "id": 295,
@@ -2439,7 +2575,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "BitcoinClicker.png",
-      "download": true
+      "download": true,
+      "slug": "bitcoin-clicker"
     },
     {
       "id": 351,
@@ -2456,7 +2593,8 @@
       "controls": [
         "Click: Flip Bottle"
       ],
-      "thumb": "icons/icon-256.png"
+      "thumb": "icons/icon-256.png",
+      "slug": "bottle-flip"
     },
     {
       "id": 358,
@@ -2473,7 +2611,8 @@
       "controls": [
         "Click: Attack"
       ],
-      "thumb": "thumb.jpg"
+      "thumb": "thumb.jpg",
+      "slug": "clicker-heroes"
     },
     {
       "id": 53,
@@ -2492,7 +2631,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "cookie1.jpeg",
-      "download": true
+      "download": true,
+      "slug": "cookie-clicker"
     },
     {
       "id": 54,
@@ -2510,7 +2650,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "pr_source.png",
-      "download": true
+      "download": true,
+      "slug": "core-ball"
     },
     {
       "id": 58,
@@ -2528,7 +2669,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/case1.png",
-      "download": true
+      "download": true,
+      "slug": "cs-go-clicker"
     },
     {
       "id": 360,
@@ -2545,7 +2687,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "thumb.jpg"
+      "thumb": "thumb.jpg",
+      "slug": "dinosaurs-merge-master"
     },
     {
       "id": 70,
@@ -2564,7 +2707,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/dogeminer_300x300.png",
-      "download": true
+      "download": true,
+      "slug": "doge-miner"
     },
     {
       "id": 71,
@@ -2582,7 +2726,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "doodle.png",
-      "download": true
+      "download": true,
+      "slug": "doodle-jump"
     },
     {
       "id": 76,
@@ -2599,7 +2744,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "DuckLife.png"
+      "thumb": "DuckLife.png",
+      "slug": "duck-life"
     },
     {
       "id": 77,
@@ -2616,7 +2762,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "DuckLife2.png"
+      "thumb": "DuckLife2.png",
+      "slug": "duck-life-2"
     },
     {
       "id": 78,
@@ -2633,7 +2780,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "DuckLife3.png"
+      "thumb": "DuckLife3.png",
+      "slug": "duck-life-3"
     },
     {
       "id": 79,
@@ -2650,7 +2798,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "duck-life-4"
     },
     {
       "id": 82,
@@ -2668,7 +2817,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "eel-slap.png",
-      "download": true
+      "download": true,
+      "slug": "eel-slap"
     },
     {
       "id": 300,
@@ -2685,7 +2835,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "ElasticFace.png"
+      "thumb": "ElasticFace.png",
+      "slug": "elastic-face"
     },
     {
       "id": 91,
@@ -2703,7 +2854,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon.png",
-      "download": true
+      "download": true,
+      "slug": "fake-virus"
     },
     {
       "id": 94,
@@ -2721,7 +2873,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/thumb.png",
-      "download": true
+      "download": true,
+      "slug": "flappy-bird"
     },
     {
       "id": 380,
@@ -2739,7 +2892,8 @@
       "controls": [
         "Drag: Slice"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "fruit-ninja"
     },
     {
       "id": 386,
@@ -2756,7 +2910,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "guess-the-kitty"
     },
     {
       "id": 302,
@@ -2773,7 +2928,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "GuraTamberine.png"
+      "thumb": "GuraTamberine.png",
+      "slug": "gura-temberine"
     },
     {
       "id": 116,
@@ -2790,7 +2946,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo192.png"
+      "thumb": "logo192.png",
+      "slug": "hacker-typer"
     },
     {
       "id": 391,
@@ -2807,7 +2964,8 @@
       "controls": [
         "Click: Pop"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "hop-pop-it"
     },
     {
       "id": 125,
@@ -2824,7 +2982,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/thumbnail.png"
+      "thumb": "img/thumbnail.png",
+      "slug": "idle-breakout"
     },
     {
       "id": 335,
@@ -2842,7 +3001,8 @@
         "Mouse: Control"
       ],
       "thumb": "logo.jpg",
-      "download": true
+      "download": true,
+      "slug": "idle-mining-empire"
     },
     {
       "id": 394,
@@ -2859,7 +3019,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "idle-restaurants"
     },
     {
       "id": 133,
@@ -2876,7 +3037,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "kittencannon.png"
+      "thumb": "kittencannon.png",
+      "slug": "kitten-cannon"
     },
     {
       "id": 136,
@@ -2893,7 +3055,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "learntofly.png"
+      "thumb": "learntofly.png",
+      "slug": "learn-to-fly"
     },
     {
       "id": 396,
@@ -2911,7 +3074,8 @@
         "Drag: Move Element",
         "Drop: Merge Elements"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "little-alchemy-2"
     },
     {
       "id": 144,
@@ -2928,7 +3092,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "merge-round-racers"
     },
     {
       "id": 398,
@@ -2945,7 +3110,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "minecraft-case-simulator"
     },
     {
       "id": 306,
@@ -2963,7 +3129,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "NutSimulator.png",
-      "download": true
+      "download": true,
+      "slug": "nut-simulator"
     },
     {
       "id": 172,
@@ -2980,7 +3147,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "assets/mobile/original.png"
+      "thumb": "assets/mobile/original.png",
+      "slug": "particle-clicker"
     },
     {
       "id": 179,
@@ -2997,7 +3165,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/splash.png"
+      "thumb": "img/splash.png",
+      "slug": "push-the-square"
     },
     {
       "id": 311,
@@ -3015,7 +3184,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "RiseHigher.png",
-      "download": true
+      "download": true,
+      "slug": "rise-higher"
     },
     {
       "id": 216,
@@ -3033,7 +3203,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/splash.png"
+      "thumb": "img/splash.png",
+      "slug": "sort-the-court"
     },
     {
       "id": 218,
@@ -3051,7 +3222,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Icons/SpaceCompanyFavicon.png",
-      "download": true
+      "download": true,
+      "slug": "space-company"
     },
     {
       "id": 256,
@@ -3069,7 +3241,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/cover.jpg"
+      "thumb": "img/cover.jpg",
+      "slug": "townscaper"
     },
     {
       "id": 261,
@@ -3086,7 +3259,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "qN6zkD.png"
+      "thumb": "qN6zkD.png",
+      "slug": "veloce"
     },
     {
       "id": 269,
@@ -3104,7 +3278,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "download": true
+      "download": true,
+      "slug": "weave-silk"
     },
     {
       "id": 315,
@@ -3121,7 +3296,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "WeBecomeWhatWeBehold.png"
+      "thumb": "WeBecomeWhatWeBehold.png",
+      "slug": "we-become-what-we-behold"
     },
     {
       "id": 270,
@@ -3139,7 +3315,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "download": true
+      "download": true,
+      "slug": "webgl-fluid-sim"
     },
     {
       "id": 339,
@@ -3156,7 +3333,8 @@
       "controls": [
         "Arrow / WASD Keys: Move"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "1-on-1-soccer"
     },
     {
       "id": 328,
@@ -3173,7 +3351,8 @@
       "controls": [
         "Mouse: Aiming / Throwing"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "3d-bowling"
     },
     {
       "id": 331,
@@ -3191,7 +3370,8 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "tmp/8BallBilliardsClassicTeaser.jpg"
+      "thumb": "tmp/8BallBilliardsClassicTeaser.jpg",
+      "slug": "8-ball-pool"
     },
     {
       "id": 11,
@@ -3208,7 +3388,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "adrenalinechallenge.jpg"
+      "thumb": "adrenalinechallenge.jpg",
+      "slug": "adrenaline-challenge"
     },
     {
       "id": 12,
@@ -3230,7 +3411,8 @@
         "Enter: Power Up",
         "Note: WASD keys also work"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "adventure-drivers"
     },
     {
       "id": 18,
@@ -3247,7 +3429,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "aquapark-slides"
     },
     {
       "id": 345,
@@ -3269,7 +3452,8 @@
         "Release: Shoot",
         "Note: Only drag and shoot when at Shootout Challenges"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "basket-and-ball"
     },
     {
       "id": 365,
@@ -3287,7 +3471,8 @@
         "Mouse: Aim",
         "Click: Shoot"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "basket-champs"
     },
     {
       "id": 26,
@@ -3323,7 +3508,8 @@
         "L: Shoot / Steal (Player 2)",
         "K: Super (Player 2)"
       ],
-      "thumb": "assets/images/basketball-stars.png"
+      "thumb": "assets/images/basketball-stars.png",
+      "slug": "basketball-stars"
     },
     {
       "id": 294,
@@ -3340,7 +3526,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "BasketRandom.png"
+      "thumb": "BasketRandom.png",
+      "slug": "basket-random"
     },
     {
       "id": 412,
@@ -3357,7 +3544,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "favicon.png"
+      "thumb": "favicon.png",
+      "slug": "big-shot-boxing"
     },
     {
       "id": 366,
@@ -3376,7 +3564,8 @@
         "Down Arrow: Backward",
         "Left / Right Arrow: Tilt"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "biker-street"
     },
     {
       "id": 38,
@@ -3393,7 +3582,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "512x512.jpg"
+      "thumb": "512x512.jpg",
+      "slug": "boxing-random"
     },
     {
       "id": 354,
@@ -3410,7 +3600,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "car-rush"
     },
     {
       "id": 44,
@@ -3427,7 +3618,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "cars-simulator"
     },
     {
       "id": 51,
@@ -3444,7 +3636,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "cluster-rush"
     },
     {
       "id": 320,
@@ -3461,7 +3654,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "crazy-cars"
     },
     {
       "id": 74,
@@ -3478,7 +3672,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icons/icon-512.png"
+      "thumb": "icons/icon-512.png",
+      "slug": "draw-the-hill"
     },
     {
       "id": 327,
@@ -3495,7 +3690,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "drift-boss.png"
+      "thumb": "drift-boss.png",
+      "slug": "drift-boss"
     },
     {
       "id": 75,
@@ -3517,7 +3713,8 @@
         "Space / Enter: Proceed",
         "Note: WASD keys and clicking on screen also work"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "drive-mad"
     },
     {
       "id": 80,
@@ -3534,7 +3731,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "edge-let-s-surf"
     },
     {
       "id": 369,
@@ -3552,7 +3750,8 @@
         "Left Arrow / A / Left Pedal: Backward",
         "Right Arrow / D / Right Pedal: Forward"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "eggy-car"
     },
     {
       "id": 371,
@@ -3571,7 +3770,8 @@
         "Right Arrow: Tilt Right",
         "Space: Jump"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "endless-truck"
     },
     {
       "id": 374,
@@ -3588,7 +3788,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "football-brawl"
     },
     {
       "id": 375,
@@ -3605,7 +3806,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "football-legends"
     },
     {
       "id": 376,
@@ -3622,7 +3824,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "football-strike"
     },
     {
       "id": 378,
@@ -3640,7 +3843,8 @@
         "WASD Keys: Move (Player 1)",
         "Arrow Keys: Move (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "get-on-top"
     },
     {
       "id": 389,
@@ -3660,7 +3864,8 @@
         "WASD Keys: Move (Player 2)",
         "Q: Shoot (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "heads-arena"
     },
     {
       "id": 388,
@@ -3677,7 +3882,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "head-soccer-2023"
     },
     {
       "id": 138,
@@ -3694,7 +3900,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/logo.jpg"
+      "thumb": "img/logo.jpg",
+      "slug": "madalin-stunt-cars-2"
     },
     {
       "id": 402,
@@ -3717,7 +3924,8 @@
         "Esc: Pause",
         "Note: WASD keys also work"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "moving-truck"
     },
     {
       "id": 361,
@@ -3735,7 +3943,8 @@
         "Hold: Aim",
         "Release: Shoot"
       ],
-      "thumb": "icon-256.png"
+      "thumb": "icon-256.png",
+      "slug": "penalty-shooters-2"
     },
     {
       "id": 184,
@@ -3752,7 +3961,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/icon.jpg"
+      "thumb": "img/icon.jpg",
+      "slug": "retro-bowl"
     },
     {
       "id": 199,
@@ -3769,7 +3979,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/splash.png"
+      "thumb": "img/splash.png",
+      "slug": "scrap-metal-3"
     },
     {
       "id": 212,
@@ -3787,7 +3998,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "unnamed.png"
+      "thumb": "unnamed.png",
+      "slug": "soccer-random"
     },
     {
       "id": 213,
@@ -3805,7 +4017,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "soccer-skills-euro-cup"
     },
     {
       "id": 250,
@@ -3822,7 +4035,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "theheist.jpg"
+      "thumb": "theheist.jpg",
+      "slug": "the-heist"
     },
     {
       "id": 325,
@@ -3839,7 +4053,8 @@
       "controls": [
         "Up Arrow / W Key: Jump"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "volley-random"
     },
     {
       "id": 277,
@@ -3856,7 +4071,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "x-trial-racing"
     },
     {
       "id": 1,
@@ -3874,7 +4090,8 @@
         "Arrow / WASD Keys: Move Number Tiles"
       ],
       "thumb": "meta/apple-touch-icon.png",
-      "download": true
+      "download": true,
+      "slug": "1"
     },
     {
       "id": 329,
@@ -3891,7 +4108,8 @@
       "controls": [
         "Mouse: Drag / Drop"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "1010-color-match"
     },
     {
       "id": 340,
@@ -3909,7 +4127,8 @@
         "Drag: Move Pieces",
         "Drop: Drop Pieces"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "1010-deluxe"
     },
     {
       "id": 6,
@@ -3928,7 +4147,8 @@
         "Arrow / WASD Keys: Move Number Tiles"
       ],
       "thumb": "thumb.png",
-      "download": true
+      "download": true,
+      "slug": "2048"
     },
     {
       "id": 7,
@@ -3946,7 +4166,8 @@
         "Arrow / WASD Keys: Move Number Tiles"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "2048-multitask"
     },
     {
       "id": 330,
@@ -3966,7 +4187,8 @@
         "Clicking on Panda: Stack",
         "Note: Clicking has other functionalities depending on where you click."
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "3-pandas-in-japan"
     },
     {
       "id": 8,
@@ -3984,7 +4206,8 @@
         "Arrow / WASD Keys: Move Number Tiles"
       ],
       "thumb": "logo-4.png",
-      "download": true
+      "download": true,
+      "slug": "900719925474"
     },
     {
       "id": 9,
@@ -4002,7 +4225,8 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "achievementunlocked.png"
+      "thumb": "achievementunlocked.png",
+      "slug": "achievement-unlocked"
     },
     {
       "id": 291,
@@ -4019,7 +4243,8 @@
       "controls": [
         "Click: Choose"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "adventure-with-anxiety"
     },
     {
       "id": 16,
@@ -4037,7 +4262,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "red.png"
+      "thumb": "red.png",
+      "slug": "among-us"
     },
     {
       "id": 21,
@@ -4055,7 +4281,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bad-ice-cream.png"
+      "thumb": "bad-ice-cream.png",
+      "slug": "bad-ice-cream"
     },
     {
       "id": 22,
@@ -4072,7 +4299,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bad-ice-cream-2.png"
+      "thumb": "bad-ice-cream-2.png",
+      "slug": "bad-ice-cream-2"
     },
     {
       "id": 23,
@@ -4089,7 +4317,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bad-ice-cream-3.png"
+      "thumb": "bad-ice-cream-3.png",
+      "slug": "bad-ice-cream-3"
     },
     {
       "id": 341,
@@ -4107,7 +4336,8 @@
         "Click: Sort"
       ],
       "thumb": "logo.jpg",
-      "download": true
+      "download": true,
+      "slug": "ball-sort-halloween"
     },
     {
       "id": 342,
@@ -4125,7 +4355,8 @@
         "Click: Sort"
       ],
       "thumb": "logo.png",
-      "download": true
+      "download": true,
+      "slug": "ball-sort-puzzle"
     },
     {
       "id": 343,
@@ -4143,7 +4374,8 @@
         "Click: Sort"
       ],
       "thumb": "logo.png",
-      "download": true
+      "download": true,
+      "slug": "ball-sort-soccer"
     },
     {
       "id": 344,
@@ -4161,7 +4393,8 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "ballistic"
     },
     {
       "id": 28,
@@ -4178,7 +4411,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "battleforgondor.JPG"
+      "thumb": "battleforgondor.JPG",
+      "slug": "battle-for-gondor"
     },
     {
       "id": 31,
@@ -4197,7 +4431,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon.png",
-      "download": true
+      "download": true,
+      "slug": "black-hole-square"
     },
     {
       "id": 346,
@@ -4214,7 +4449,8 @@
       "controls": [
         "Click: Place Block"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "block-the-pig"
     },
     {
       "id": 33,
@@ -4231,7 +4467,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bloonstd.jpg"
+      "thumb": "bloonstd.jpg",
+      "slug": "bloons-td"
     },
     {
       "id": 34,
@@ -4248,7 +4485,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "bloonstd2.png"
+      "thumb": "bloonstd2.png",
+      "slug": "bloons-td-2"
     },
     {
       "id": 321,
@@ -4265,7 +4503,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "bloons-td-4"
     },
     {
       "id": 35,
@@ -4283,7 +4522,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "block.png"
+      "thumb": "block.png",
+      "slug": "bloxors"
     },
     {
       "id": 350,
@@ -4302,7 +4542,8 @@
         "Space: Charge Rocket",
         "R: Restart"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "blumgi-rocket"
     },
     {
       "id": 39,
@@ -4319,7 +4560,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "breakingthebank.png"
+      "thumb": "breakingthebank.png",
+      "slug": "breaking-the-bank"
     },
     {
       "id": 40,
@@ -4337,7 +4579,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images.png"
+      "thumb": "images.png",
+      "slug": "big-tower-tiny-square"
     },
     {
       "id": 352,
@@ -4355,7 +4598,8 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "thumb.png"
+      "thumb": "thumb.png",
+      "slug": "bouncy-woods"
     },
     {
       "id": 353,
@@ -4375,7 +4619,8 @@
         "B: Switch Ball"
       ],
       "thumb": "thumb.jpg",
-      "download": true
+      "download": true,
+      "slug": "bubble-pop-adventures"
     },
     {
       "id": 318,
@@ -4392,7 +4637,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "Build/logo.png"
+      "thumb": "Build/logo.png",
+      "slug": "burrito-bison"
     },
     {
       "id": 42,
@@ -4409,7 +4655,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/splash.png"
+      "thumb": "img/splash.png",
+      "slug": "cannon-basketball-4"
     },
     {
       "id": 43,
@@ -4426,7 +4673,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "canyondefense.png"
+      "thumb": "canyondefense.png",
+      "slug": "canyon-defense"
     },
     {
       "id": 45,
@@ -4444,7 +4692,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/te9nDu.png"
+      "thumb": "img/te9nDu.png",
+      "slug": "cell-machine"
     },
     {
       "id": 357,
@@ -4461,7 +4710,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumb.jpg"
+      "thumb": "thumb.jpg",
+      "slug": "checkers-legend"
     },
     {
       "id": 50,
@@ -4480,7 +4730,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/download.png",
-      "download": true
+      "download": true,
+      "slug": "circlo"
     },
     {
       "id": 356,
@@ -4499,7 +4750,8 @@
         "Esc / Back: Pause"
       ],
       "thumb": "thumv.png",
-      "download": true
+      "download": true,
+      "slug": "circloo-2"
     },
     {
       "id": 359,
@@ -4516,7 +4768,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thumb.jpg"
+      "thumb": "thumb.jpg",
+      "slug": "climb-over-it"
     },
     {
       "id": 52,
@@ -4534,7 +4787,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "connect3.png",
-      "download": true
+      "download": true,
+      "slug": "connect-3"
     },
     {
       "id": 57,
@@ -4551,7 +4805,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "crossyroad.png"
+      "thumb": "crossyroad.png",
+      "slug": "crossy-road"
     },
     {
       "id": 59,
@@ -4570,7 +4825,8 @@
         "Drag: Cut",
         "Click: Action"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "cut-the-rope"
     },
     {
       "id": 60,
@@ -4588,7 +4844,8 @@
         "Drag: Cut",
         "Click: Action"
       ],
-      "thumb": "Holiday_Gift.webp"
+      "thumb": "Holiday_Gift.webp",
+      "slug": "cut-the-rope-holiday"
     },
     {
       "id": 61,
@@ -4606,7 +4863,8 @@
         "Drag: Cut",
         "click: Action"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "cut-the-rope-time-travel"
     },
     {
       "id": 65,
@@ -4623,7 +4881,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "index.jpg"
+      "thumb": "index.jpg",
+      "slug": "deal-or-no-deal"
     },
     {
       "id": 317,
@@ -4641,7 +4900,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "download": true
+      "download": true,
+      "slug": "deepest-sword"
     },
     {
       "id": 349,
@@ -4658,7 +4918,8 @@
       "controls": [
         "Arrow / WASD Keys: Move"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "dino-bros"
     },
     {
       "id": 68,
@@ -4675,7 +4936,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "doctor-acorn-2"
     },
     {
       "id": 69,
@@ -4693,7 +4955,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "doge1.jpeg",
-      "download": true
+      "download": true,
+      "slug": "doge-2048"
     },
     {
       "id": 81,
@@ -4711,7 +4974,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "edge.png",
-      "download": true
+      "download": true,
+      "slug": "edge-not-found"
     },
     {
       "id": 362,
@@ -4728,7 +4992,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "escaping-the-prison"
     },
     {
       "id": 87,
@@ -4745,7 +5010,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "evolution"
     },
     {
       "id": 88,
@@ -4763,7 +5029,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/small.jpg",
-      "download": true
+      "download": true,
+      "slug": "exo"
     },
     {
       "id": 89,
@@ -4780,7 +5047,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images/splash.png"
+      "thumb": "images/splash.png",
+      "slug": "factory-balls-forever"
     },
     {
       "id": 372,
@@ -4798,7 +5066,8 @@
         "Click: Action",
         "Drag: Switch"
       ],
-      "thumb": "Icon_512x512.png"
+      "thumb": "Icon_512x512.png",
+      "slug": "farm-match-seasons"
     },
     {
       "id": 95,
@@ -4815,7 +5084,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "flashtetris.png"
+      "thumb": "flashtetris.png",
+      "slug": "flash-tetris"
     },
     {
       "id": 363,
@@ -4832,7 +5102,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "fleeing-the-complex"
     },
     {
       "id": 102,
@@ -4849,7 +5120,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/display.png"
+      "thumb": "img/display.png",
+      "slug": "game-inside-a-game-inside-a-game"
     },
     {
       "id": 105,
@@ -4867,7 +5139,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/SnDTEn.png"
+      "thumb": "img/SnDTEn.png",
+      "slug": "george-and-the-printer"
     },
     {
       "id": 301,
@@ -4884,7 +5157,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "GettingOverIt.png"
+      "thumb": "GettingOverIt.png",
+      "slug": "getting-over-it"
     },
     {
       "id": 109,
@@ -4901,7 +5175,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "game.jpg"
+      "thumb": "game.jpg",
+      "slug": "go-ball"
     },
     {
       "id": 111,
@@ -4919,7 +5194,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "google-feud"
     },
     {
       "id": 113,
@@ -4936,7 +5212,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "gravity-soccer"
     },
     {
       "id": 114,
@@ -4954,7 +5231,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "ico.png"
+      "thumb": "ico.png",
+      "slug": "grey-box-testing"
     },
     {
       "id": 117,
@@ -4972,7 +5250,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splaher.png"
+      "thumb": "splaher.png",
+      "slug": "handshakes"
     },
     {
       "id": 387,
@@ -4990,7 +5269,8 @@
         "Hold: Hang",
         "Release: Detach"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "hanger"
     },
     {
       "id": 121,
@@ -5007,7 +5287,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "hexempire.jpg"
+      "thumb": "hexempire.jpg",
+      "slug": "hex-empire"
     },
     {
       "id": 123,
@@ -5025,7 +5306,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/hextris-logo.png",
-      "download": true
+      "download": true,
+      "slug": "hextris"
     },
     {
       "id": 392,
@@ -5043,7 +5325,8 @@
         "Hold: Turns Icy",
         "Release: Turns Normal"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "icy-purple-head-2"
     },
     {
       "id": 393,
@@ -5061,7 +5344,8 @@
         "Hold: Turns Icy",
         "Release: Turns Normal"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "icy-purple-head-3"
     },
     {
       "id": 127,
@@ -5078,7 +5362,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "impossiblequiz.png"
+      "thumb": "impossiblequiz.png",
+      "slug": "impossible-quiz"
     },
     {
       "id": 364,
@@ -5095,7 +5380,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "infiltrating-the-airship"
     },
     {
       "id": 395,
@@ -5113,7 +5399,8 @@
         "Drag: Move Tiles",
         "Drop: Switch Tiles"
       ],
-      "thumb": "Icon_512x512.png"
+      "thumb": "Icon_512x512.png",
+      "slug": "jewels-blitz-5"
     },
     {
       "id": 397,
@@ -5130,7 +5417,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "marbles-sorting"
     },
     {
       "id": 143,
@@ -5148,7 +5436,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/rickroll.gif",
-      "download": true
+      "download": true,
+      "slug": "meme-2048"
     },
     {
       "id": 150,
@@ -5166,7 +5455,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/minesweeper.png",
-      "download": true
+      "download": true,
+      "slug": "minesweeper"
     },
     {
       "id": 151,
@@ -5183,7 +5473,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "miniputt.png"
+      "thumb": "miniputt.png",
+      "slug": "mini-putt"
     },
     {
       "id": 399,
@@ -5201,7 +5492,8 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "money-movers"
     },
     {
       "id": 400,
@@ -5219,7 +5511,8 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "money-movers-2"
     },
     {
       "id": 401,
@@ -5237,7 +5530,8 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "money-movers-3"
     },
     {
       "id": 413,
@@ -5254,7 +5548,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "park-out"
     },
     {
       "id": 310,
@@ -5271,7 +5566,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "PlantsVsZombies.png"
+      "thumb": "PlantsVsZombies.png",
+      "slug": "plants-vs-zombies"
     },
     {
       "id": 176,
@@ -5289,7 +5585,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "portaltheflashversion.jpg"
+      "thumb": "portaltheflashversion.jpg",
+      "slug": "portal-flash"
     },
     {
       "id": 180,
@@ -5306,7 +5603,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "assets/img/push.png"
+      "thumb": "assets/img/push.png",
+      "slug": "push-your-luck"
     },
     {
       "id": 181,
@@ -5324,7 +5622,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "rabbit-samurai"
     },
     {
       "id": 182,
@@ -5341,7 +5640,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "rabbit-samurai-2"
     },
     {
       "id": 185,
@@ -5358,7 +5658,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddleschool.png"
+      "thumb": "riddleschool.png",
+      "slug": "riddle-school-1"
     },
     {
       "id": 186,
@@ -5375,7 +5676,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddleschool2.png"
+      "thumb": "riddleschool2.png",
+      "slug": "riddle-school-2"
     },
     {
       "id": 187,
@@ -5392,7 +5694,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddleschool3.png"
+      "thumb": "riddleschool3.png",
+      "slug": "riddle-school-3"
     },
     {
       "id": 188,
@@ -5409,7 +5712,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddleschool4.png"
+      "thumb": "riddleschool4.png",
+      "slug": "riddle-school-4"
     },
     {
       "id": 189,
@@ -5426,7 +5730,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddleschool5.png"
+      "thumb": "riddleschool5.png",
+      "slug": "riddle-school-5"
     },
     {
       "id": 190,
@@ -5443,7 +5748,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddletransfer.png"
+      "thumb": "riddletransfer.png",
+      "slug": "riddle-school-transfer-1"
     },
     {
       "id": 191,
@@ -5461,7 +5767,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "riddletransfer2.png"
+      "thumb": "riddletransfer2.png",
+      "slug": "riddle-school-transfer-2"
     },
     {
       "id": 319,
@@ -5478,7 +5785,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "webapp/cover.jpg"
+      "thumb": "webapp/cover.jpg",
+      "slug": "roper"
     },
     {
       "id": 204,
@@ -5495,7 +5803,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "slime-rush-td"
     },
     {
       "id": 224,
@@ -5512,7 +5821,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "stealingthediamond.jpg"
+      "thumb": "stealingthediamond.jpg",
+      "slug": "stealing-the-diamond"
     },
     {
       "id": 229,
@@ -5530,7 +5840,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "stickman-golf"
     },
     {
       "id": 230,
@@ -5548,7 +5859,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "unnamed.jpg"
+      "thumb": "unnamed.jpg",
+      "slug": "stickman-hook"
     },
     {
       "id": 233,
@@ -5565,7 +5877,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "stormthehouse2.jpg"
+      "thumb": "stormthehouse2.jpg",
+      "slug": "storm-the-house-2"
     },
     {
       "id": 313,
@@ -5583,7 +5896,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Territorial.png",
-      "download": true
+      "download": true,
+      "slug": "territorial"
     },
     {
       "id": 247,
@@ -5600,7 +5914,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "thebattle.png"
+      "thumb": "thebattle.png",
+      "slug": "the-battle"
     },
     {
       "id": 248,
@@ -5618,7 +5933,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images.png"
+      "thumb": "images.png",
+      "slug": "the-final-earth"
     },
     {
       "id": 251,
@@ -5636,7 +5952,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "there-is-no-game"
     },
     {
       "id": 254,
@@ -5653,7 +5970,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "tiny-islands"
     },
     {
       "id": 260,
@@ -5671,7 +5989,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "download": true
+      "download": true,
+      "slug": "twitch-tetris"
     },
     {
       "id": 267,
@@ -5688,7 +6007,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "square.png"
+      "thumb": "square.png",
+      "slug": "waterworks"
     },
     {
       "id": 268,
@@ -5706,7 +6026,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "download": true
+      "download": true,
+      "slug": "wall-smash"
     },
     {
       "id": 274,
@@ -5724,7 +6045,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/logo_192x192.png",
-      "download": true
+      "download": true,
+      "slug": "wordle"
     },
     {
       "id": 278,
@@ -5743,7 +6065,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "xx142-b2exe"
     },
     {
       "id": 280,
@@ -5761,7 +6084,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/banner.png",
-      "download": true
+      "download": true,
+      "slug": "you-are-jeff-bezos"
     },
     {
       "id": 30,
@@ -5779,7 +6103,8 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "bitlife"
     },
     {
       "id": 118,
@@ -5796,7 +6121,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "happy-hop"
     },
     {
       "id": 119,
@@ -5813,7 +6139,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "hoverbotarena.JPG"
+      "thumb": "hoverbotarena.JPG",
+      "slug": "hover-bot-arena"
     },
     {
       "id": 131,
@@ -5831,7 +6158,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "pv1Gr5.png",
-      "download": true
+      "download": true,
+      "slug": "just-one-boss"
     },
     {
       "id": 158,
@@ -5848,7 +6176,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "my-rusty-submarine"
     },
     {
       "id": 166,
@@ -5865,7 +6194,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "ovo.png"
+      "thumb": "ovo.png",
+      "slug": "ovo"
     },
     {
       "id": 167,
@@ -5882,7 +6212,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "pandemic2.png"
+      "thumb": "pandemic2.png",
+      "slug": "pandemic-2"
     },
     {
       "id": 168,
@@ -5899,7 +6230,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.jpg"
+      "thumb": "splash.jpg",
+      "slug": "papa-s-burgeria"
     },
     {
       "id": 169,
@@ -5916,7 +6248,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "papaspizzaria.jpg"
+      "thumb": "papaspizzaria.jpg",
+      "slug": "papa-s-pizzaria"
     },
     {
       "id": 170,
@@ -5933,7 +6266,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "images/icon512.png"
+      "thumb": "images/icon512.png",
+      "slug": "paper-io-2"
     },
     {
       "id": 196,
@@ -5951,7 +6285,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "sandboxels.jpg",
-      "download": true
+      "download": true,
+      "slug": "sandboxels"
     },
     {
       "id": 197,
@@ -5968,7 +6303,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "splash.png"
+      "thumb": "splash.png",
+      "slug": "santy-is-home"
     },
     {
       "id": 202,
@@ -5985,7 +6321,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "512x512.jpg"
+      "thumb": "512x512.jpg",
+      "slug": "sky-car-stunt"
     },
     {
       "id": 211,
@@ -6002,7 +6339,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "img/logo.png"
+      "thumb": "img/logo.png",
+      "slug": "snowbattle"
     },
     {
       "id": 215,
@@ -6020,7 +6358,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "download": true
+      "download": true,
+      "slug": "solitaire"
     },
     {
       "id": 249,
@@ -6038,7 +6377,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "download": true
+      "download": true,
+      "slug": "the-hotel"
     },
     {
       "id": 255,
@@ -6056,7 +6396,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "tosstheturtle.png"
+      "thumb": "tosstheturtle.png",
+      "slug": "toss-the-turtle"
     },
     {
       "id": 279,
@@ -6073,7 +6414,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icons/icon-512.png"
+      "thumb": "icons/icon-512.png",
+      "slug": "yoshi-s-fabrication-lab"
     },
     {
       "id": 307,
@@ -6091,7 +6433,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "PaperIo3.png",
-      "download": true
+      "download": true,
+      "slug": "paper-io-3"
     },
     {
       "id": 403,
@@ -6109,7 +6452,8 @@
         "Hold: Aim",
         "Release: Shoot"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "mr-bullet"
     },
     {
       "id": 404,
@@ -6127,7 +6471,8 @@
         "Arrow Keys: Move",
         "Note: WASD keys and dragging also work"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "mutazone"
     },
     {
       "id": 405,
@@ -6145,7 +6490,8 @@
         "Hold: Aim",
         "Release: Jump"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "ninja-cat"
     },
     {
       "id": 406,
@@ -6162,7 +6508,8 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "ovo-2"
     },
     {
       "id": 407,
@@ -6179,7 +6526,8 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "ovo-dimensions"
     },
     {
       "id": 408,
@@ -6197,7 +6545,8 @@
         "Arrow Keys: Move",
         "P: Pause"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "pacman"
     },
     {
       "id": 409,
@@ -6215,7 +6564,8 @@
         "Click: Action",
         "Drag: Switch"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-cherry-saga"
     },
     {
       "id": 410,
@@ -6233,7 +6583,8 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "parking-fury"
     },
     {
       "id": 411,
@@ -6251,7 +6602,8 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "parking-fury-2"
     },
     {
       "id": 414,
@@ -6269,7 +6621,8 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "67f5943d779b41b2bc6a67ce132b7c68-512x512.jpeg"
+      "thumb": "67f5943d779b41b2bc6a67ce132b7c68-512x512.jpeg",
+      "slug": "parking-fury-3"
     },
     {
       "id": 415,
@@ -6286,7 +6639,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "penalty-kick-online"
     },
     {
       "id": 416,
@@ -6303,7 +6657,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "penalty-shooters-3"
     },
     {
       "id": 417,
@@ -6320,7 +6675,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pixel-smash-duel"
     },
     {
       "id": 418,
@@ -6337,7 +6693,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pizza-tower"
     },
     {
       "id": 419,
@@ -6354,7 +6711,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "pou"
     },
     {
       "id": 420,
@@ -6371,7 +6729,8 @@
       "controls": [
         "Drag: Move"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pudding-monsters"
     },
     {
       "id": 421,
@@ -6388,7 +6747,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "racing-monster-trucks"
     },
     {
       "id": 422,
@@ -6405,7 +6765,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "run-3-space"
     },
     {
       "id": 423,
@@ -6422,7 +6783,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "rusher-crusher"
     },
     {
       "id": 424,
@@ -6439,7 +6801,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "save-the-doge"
     },
     {
       "id": 425,
@@ -6456,7 +6819,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "sling-tomb"
     },
     {
       "id": 426,
@@ -6473,7 +6837,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg"
+      "thumb": "9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg",
+      "slug": "snail-bob-7"
     },
     {
       "id": 427,
@@ -6490,7 +6855,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "snail-bob-8"
     },
     {
       "id": 428,
@@ -6507,7 +6873,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "soccer-heads"
     },
     {
       "id": 429,
@@ -6524,7 +6891,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "space-bar-clicker"
     },
     {
       "id": 430,
@@ -6541,7 +6909,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "spider-solitaire"
     },
     {
       "id": 431,
@@ -6558,7 +6927,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "super-liquid-soccer"
     },
     {
       "id": 432,
@@ -6575,7 +6945,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "loading-logo.png"
+      "thumb": "loading-logo.png",
+      "slug": "super-mario-wonder"
     },
     {
       "id": 433,
@@ -6592,7 +6963,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "swingo"
     },
     {
       "id": 434,
@@ -6609,7 +6981,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "tap-tap-shots"
     },
     {
       "id": 435,
@@ -6626,7 +6999,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "tower-crash-3d"
     },
     {
       "id": 436,
@@ -6643,7 +7017,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "traffic-control"
     },
     {
       "id": 437,
@@ -6660,7 +7035,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "tunnel-rush-2"
     },
     {
       "id": 438,
@@ -6677,7 +7053,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "turn-turn"
     },
     {
       "id": 439,
@@ -6694,7 +7071,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icon-256.png"
+      "thumb": "icon-256.png",
+      "slug": "wheelie-bike"
     },
     {
       "id": 440,
@@ -6711,7 +7089,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "icon-256.png"
+      "thumb": "icon-256.png",
+      "slug": "wheelie-bike-2"
     },
     {
       "id": 441,
@@ -6728,7 +7107,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-2"
     },
     {
       "id": 442,
@@ -6745,7 +7125,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-3"
     },
     {
       "id": 443,
@@ -6762,7 +7143,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-4"
     },
     {
       "id": 444,
@@ -6779,7 +7161,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-5"
     },
     {
       "id": 445,
@@ -6796,7 +7179,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-6"
     },
     {
       "id": 446,
@@ -6813,7 +7197,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-7"
     },
     {
       "id": 447,
@@ -6830,7 +7215,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wheely-8"
     },
     {
       "id": 448,
@@ -6847,7 +7233,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "wood-block-puzzle"
     },
     {
       "id": 449,
@@ -6864,7 +7251,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "woodventure"
     },
     {
       "id": 450,
@@ -6881,7 +7269,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "wordle-unlimited"
     },
     {
       "id": 451,
@@ -6898,7 +7287,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "word-slide"
     },
     {
       "id": 452,
@@ -6916,7 +7306,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "unnamed.png"
+      "thumb": "unnamed.png",
+      "slug": "retro-bowl-college"
     },
     {
       "id": 453,
@@ -6933,7 +7324,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "axis-football-league"
     },
     {
       "id": 454,
@@ -6950,7 +7342,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "burrito-bison-revenge"
     },
     {
       "id": 455,
@@ -6967,7 +7360,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "fancy-pants-adventures-2"
     },
     {
       "id": 456,
@@ -6984,7 +7378,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "fancy-pants-adventures-3"
     },
     {
       "id": 457,
@@ -7001,7 +7396,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "galaga"
     },
     {
       "id": 458,
@@ -7018,7 +7414,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "dummy-never-fails"
     },
     {
       "id": 459,
@@ -7035,7 +7432,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "dummy-never-fails-2"
     },
     {
       "id": 460,
@@ -7052,7 +7450,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "gunblood"
     },
     {
       "id": 461,
@@ -7069,7 +7468,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpeg"
+      "thumb": "logo.jpeg",
+      "slug": "learn-to-fly-2"
     },
     {
       "id": 462,
@@ -7086,7 +7486,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-bakeria"
     },
     {
       "id": 463,
@@ -7103,7 +7504,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-cheeseria"
     },
     {
       "id": 464,
@@ -7120,7 +7522,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-cupcakeria"
     },
     {
       "id": 465,
@@ -7137,7 +7540,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.png"
+      "thumb": "logo.png",
+      "slug": "papa-s-donuteria"
     },
     {
       "id": 466,
@@ -7154,7 +7558,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-freezeria"
     },
     {
       "id": 467,
@@ -7171,7 +7576,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-hot-doggeria"
     },
     {
       "id": 468,
@@ -7188,7 +7594,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-pancakeria"
     },
     {
       "id": 469,
@@ -7205,7 +7612,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-pastaria"
     },
     {
       "id": 470,
@@ -7222,7 +7630,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-scooperia"
     },
     {
       "id": 471,
@@ -7239,7 +7648,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-sushiria"
     },
     {
       "id": 472,
@@ -7256,7 +7666,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-taco-mia"
     },
     {
       "id": 473,
@@ -7273,7 +7684,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "papa-s-wingeria"
     },
     {
       "id": 474,
@@ -7290,7 +7702,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "gun-mayhem"
     },
     {
       "id": 475,
@@ -7307,7 +7720,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.webp"
+      "thumb": "logo.webp",
+      "slug": "gun-mayhem-2"
     },
     {
       "id": 476,
@@ -7324,7 +7738,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "gun-mayhem-redux"
     },
     {
       "id": 477,
@@ -7341,7 +7756,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.avif"
+      "thumb": "logo.avif",
+      "slug": "icycle"
     },
     {
       "id": 478,
@@ -7358,7 +7774,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "unnamed.png"
+      "thumb": "unnamed.png",
+      "slug": "monster-truck-destroyer"
     },
     {
       "id": 479,
@@ -7375,7 +7792,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pokemon-emerald"
     },
     {
       "id": 480,
@@ -7392,7 +7810,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pokemon-emerald-2"
     },
     {
       "id": 481,
@@ -7409,7 +7828,8 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "logo.jpg"
+      "thumb": "logo.jpg",
+      "slug": "pokemon-firered"
     }
   ]
 }

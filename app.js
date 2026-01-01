@@ -11,6 +11,13 @@ document.addEventListener("mousemove", function (event) {
 
 //**Above is the universal code for every MacWeb JavaScript file**//
 
+
+// Slug map (for slug-based game pages)
+let __slugMap = {};
+fetch("games.json").then(r=>r.json()).then(d=>{
+  (d.games||[]).forEach(g=>{ __slugMap[String(g.id)] = g.slug; });
+}).catch(()=>{});
+
 const google = ["Google", "/media/google.png"];
 const canva = ["Home - Canva", "/media/canva.png"];
 const clever = ["Clever | Portal", "/media/clever.png"];
@@ -201,7 +208,7 @@ function arrangeBoxes(newArrayy, newIds) {
           url("${item.link + item.thumb}")`;
         newBox.addEventListener("click", () => {
           const params = new URLSearchParams({ target: item.id });
-          window.location.href = `game.html?${params.toString()}`;
+          window.location.href = `${__slugMap[String(item.id)] || item.id}.html`;
         });
       }
     });
@@ -322,7 +329,7 @@ function select() {
       let id = item.getAttribute("id").slice(4);
       list.children[0].addEventListener("click", () => {
         const params = new URLSearchParams({ target: id });
-        window.location.href = `game.html?${params.toString()}`;
+        window.location.href = `${__slugMap[String(id)] || id}.html`;
       });
     }
   });
