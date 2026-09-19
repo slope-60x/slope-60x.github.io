@@ -362,14 +362,3 @@ footer .footer-seo-copy{
 
 /* Content quality / SEO sections */
 .overview-seo-article{margin-top:26px;padding-top:24px;border-top:1px solid var(--line)}.overview-seo-article h2{margin-top:26px;font-size:23px}.overview-seo-article h3{font-size:16px;margin:18px 0 6px}.game-faq{margin-top:28px;padding:22px;border:1px solid var(--line);border-radius:16px;background:#0c1320}.game-faq p{margin-bottom:14px}.home-seo{margin:20px 0 70px;padding:38px;border:1px solid var(--line);border-radius:24px;background:var(--panel);line-height:1.75}.home-seo h2{font-size:32px;letter-spacing:-.04em}.home-seo h3{margin-top:28px;font-size:20px}.home-seo h4{margin:16px 0 6px;font-size:15px}.home-seo p{color:var(--muted)}.home-seo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.home-seo-grid>div{padding:20px;border:1px solid var(--line);border-radius:16px;background:#0c1320}@media(max-width:720px){.home-seo{padding:24px}.home-seo-grid{grid-template-columns:1fr}}
-
-/* Slope 60x identity */
-:root{--brand-accent:#ffb000;--brand-secondary:#00d4ff} body{background:radial-gradient(circle at 15% 0%,rgba(255,176,0,.08),transparent 32%),#0b0d12}.brand,.logo{letter-spacing:.02em}.game-card{border-radius:14px}.btn-primary,.play-button{box-shadow:0 8px 28px rgba(255,176,0,.16)}
-
-/* Slope 60x identity */
-:root{--s60-glow:#8dff62;--s60-ink:#070a0d;--s60-panel:#11171b}
-body{background:radial-gradient(circle at 50% -20%,rgba(141,255,98,.10),transparent 38%),#070a0d}
-.site-header{background:rgba(7,10,13,.94);border-bottom:1px solid rgba(141,255,98,.18)}
-.brand span{letter-spacing:.02em}.play-button{box-shadow:0 12px 38px rgba(141,255,98,.18)}
-.s60-editorial{max-width:980px;margin:48px auto 20px;padding:30px;border:1px solid rgba(141,255,98,.16);border-radius:24px;background:linear-gradient(145deg,rgba(17,23,27,.96),rgba(9,13,16,.96))}.s60-editorial h2{font-size:clamp(1.7rem,3vw,2.5rem);margin:.25rem 0 1rem}.s60-editorial h3{margin-top:1.6rem}.s60-editorial p{line-height:1.8;color:#c8d2d6}.s60-editorial .eyebrow{color:#8dff62;text-transform:uppercase;letter-spacing:.14em;font-size:.78rem;font-weight:800}
-.game-editorial p,.game-editorial li{line-height:1.75}.game-editorial h2{margin-top:1.6rem}

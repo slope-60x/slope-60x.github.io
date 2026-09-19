@@ -4,11 +4,11 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<title>Slope 60x — 450+ Browser Games Online</title>
-<meta content="Explore Slope 60x with 450+ browser games, categories, search, favorites, popular picks and individual game pages with useful details." name="description"/>
+<title>Slope 60x — Play Free Unblocked Browser Games</title>
+<meta content="Play Slope 60x and explore 450 browser games across action, driving, strategy and casual categories. Fast access, favorites and fullscreen play." name="description"/>
 <link href="https://slope-60x.github.io/" rel="canonical"/>
 <meta content="Slope 60x — 450 Free Online Games" property="og:title"/>
-<meta content="Explore Slope 60x with 450+ browser titles, useful game guides, categories, favorites and recently played games." property="og:description"/>
+<meta content="Play Slope 60x and hundreds of free browser games with no download." property="og:description"/>
 <meta content="https://slope-60x.github.io/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="#080b14" name="theme-color"/>
@@ -16,16 +16,71 @@
 <link href="assets/style.css" rel="stylesheet"/><link href="assets/nav.css" rel="stylesheet"/>
 <link href="assets/home.css" rel="stylesheet"/>
 <link href="assets/ads.css" rel="stylesheet"/>
-<script async="" src="//api.adinplay.com/libs/aiptag/pub/AGT/paperio.pro/tag.min.js"></script>
 </head>
-<body>
+<body><div id="preroll"></div>
+<script>
+	function getScript(src) {
+    var headElm = document.head || document.getElementsByTagName('head')[0];
+    var script = document.createElement("script");
+    var once = true;
+    script.async = "async";
+    script.type = "text/javascript";
+    script.charset = "UTF-8";
+    script.src = src;
+    script.onload = script.onreadystatechange = function() {
+        if (once && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+            once = false;         
+            script.onload = script.onreadystatechange = null;
+			console.log("okeey");
+        }
+    };
+	  headElm.appendChild(script);
+}
+
+ 
+	getScript("//api.adinplay.com/libs/aiptag/pub/AGT/paperio.pro/tag.min.js");
+ 
+	window.aiptag = window.aiptag || {cmd: []};
+	aiptag.cmd.display = aiptag.cmd.display || [];
+	aiptag.cmd.player = aiptag.cmd.player || [];
+
+	//CMP tool settings
+	aiptag.cmp = {
+		show: true,
+		position: "centered",
+		button: true,
+		buttonText: "Privacy settings",
+		buttonPosition: "bottom-left"
+	}
+
+	aiptag.cmd.player.push(function() {
+		aiptag.adplayer = new aipPlayer({
+			AD_WIDTH: 960,
+			AD_HEIGHT: 540,
+			AD_DISPLAY: 'center',
+			LOADING_TEXT: 'loading advertisement',
+			PREROLL_ELEM: function(){return document.getElementById('preroll')},
+			AIP_COMPLETE: function (evt){ try{ if(window.__pr_cb){ window.__pr_cb(); } }catch(e){} finally{ window.__pr_cb=null; } },
+			AIP_REMOVE: function ()  {}
+		});
+	});
+
+	function show_preroll(callback) {
+		window.__pr_cb = (typeof callback === 'function') ? callback : null;
+		if (typeof aiptag.adplayer !== 'undefined') {
+			aiptag.cmd.player.push(function() { aiptag.adplayer.startPreRoll(); });
+		} else {
+			if (window.__pr_cb) { var cb = window.__pr_cb; window.__pr_cb = null; cb(); }
+		}
+	}
+</script>
 <header class="site-header">
 <a class="brand" href="/"><img alt="Slope 60x" src="assets/logo.svg"/><span>Slope 60x</span></a>
 <nav aria-label="Main navigation" class="main-nav"><a aria-current="page" class="active" href="/">Home</a><a href="/#games">Games</a><a href="popular-games.html">Popular</a><a href="top-unblocked-games.html">Top Unblocked</a><a href="new-games.html">New</a><a href="favorite-games.html">Favorites</a><div class="nav-dropdown"><button type="button">Categories ▾</button><div class="dropdown-menu"><a href="action-games.html">Action &amp; Adventure</a><a href="strategy-games.html">Strategy &amp; Puzzle</a><a href="casual-games.html">Casual &amp; Idle</a><a href="driving-games.html">Driving &amp; Sports</a></div></div><div class="nav-dropdown"><button type="button">Information ▾</button><div class="dropdown-menu"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a><a href="dmca.html">DMCA</a></div></div></nav>
 </header>
 <main>
 <section class="hero">
-<h1 class="visually-hidden">Slope 60x Games</h1>
+<h1 class="visually-hidden">Slope 60x</h1>
 <div class="search-row">
 <label class="search"><span>⌕</span><input autocomplete="off" id="search" placeholder="Search 450 games…" type="search"/></label>
 <button class="primary" id="random">Surprise me</button>
@@ -58,8 +113,8 @@
 <h3>Built for quick browser play</h3><p>The site uses a lightweight static structure designed for desktop, Chromebook, tablet and mobile browsers. Games load only after you choose to play, while thumbnails and catalog content are optimized to keep browsing responsive. Fullscreen and open-in-new-tab controls are available on game pages when you want a larger play area.</p>
 <h3>Frequently asked questions</h3><div class="home-faq"><h4>Do I need to install the games?</h4><p>No. The catalog is designed around browser-based games, so the playable versions open without a separate app installation.</p><h4>How do I find a specific game?</h4><p>Use the search box on the homepage, choose a category, or open the Popular and Top Unblocked pages from the navigation.</p><h4>Can I save games for later?</h4><p>Yes. Use the Favorite button on a game page to keep a local favorites list in your browser.</p></div>
 </section>
-<section class="s60-editorial"><p class="eyebrow">Slope 60x game library</p><h2>Fast starts, clear pages, and a catalog built around browser play</h2><p>Slope 60x starts with the quick-reaction spirit of Slope, then opens the door to hundreds of action, driving, sports, puzzle, strategy and casual games. Search is designed for direct lookups, while Popular, New and category pages make it easier to browse when you do not have a title in mind.</p><h3>Why the 60x catalog is organized this way</h3><p>Game pages keep the player first. Verified controls are shown when the catalog has them; when they are not known, the page leaves the guesswork out and lets the game provide its own instructions. Favorites and recently played tools help with return visits without burying the player under repeated SEO text.</p><h3>More than Slope</h3><p>Slope remains the visual anchor, but the library covers very different play styles. Related-game sections are meant to help you move from one title to another by category and popularity while each game keeps its own page, metadata and concise editorial notes.</p></section></main>
-<section class="tenx-editorial" id="tenx-editorial"><h2>Browse the 10x game library</h2><p>Slope 60x is arranged for quick browsing: search the catalog, move through categories, save favorites locally, or use the popular and new-game views when you want something different.</p><p>Game pages separate verified catalog information from details that can change between browser builds. Documented controls are shown as a readable list; unknown controls are left to the instructions inside the player rather than guessed.</p><p>This 10x edition uses its own metadata, homepage copy and editorial wording so the site reads as a distinct catalog instead of a renamed copy of another project.</p></section><footer><p class="footer-seo-copy">Explore Slope 60x and discover action, puzzle, sports, racing, strategy and casual browser games in one organized catalog.</p><a class="brand" href="/"><img alt="" src="assets/logo.svg"/><span>Slope 60x</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div><p><a href="LICENSE.txt">Open-source notice</a></p></footer>
+</main>
+<footer><p class="footer-seo-copy">Play Slope 60x and discover hundreds of action, puzzle, sports, racing and casual browser games.</p><a class="brand" href="/"><img alt="" src="assets/logo.svg"/><span>Slope 60x</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div><p><a href="LICENSE.txt">Open-source notice</a></p></footer>
 <script defer="" src="assets/app.js"></script>
 </body>
 </html>
